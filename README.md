@@ -17,7 +17,8 @@
 
   - 🌱 Atualmente estou estudando Análise e desenvolvimento de sistema pela UNIP Universidade Paulista de SP
 
-  - 🔭 Estou procurando uma oportunidade para a minha primeira oportunidade de trabalho. Meu sonho é se tornar um desenvolverdor Full stack, e poder trabalhar com diversas plataformas
+  - 🔭 Estou procurando uma oportunidade para meu primeiro emprego nessa área.
+ Meu sonho é se tornar um desenvolverdor Full stack, e poder trabalhar com diversas plataformas
 </p>
 
 <!-- Dropdown -->
