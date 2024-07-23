@@ -32,8 +32,8 @@
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/renansia150/?next=%2F)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-sia-orlandini-3489a4304/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/)
-
+[![Gmail](https://img.shields.io/badge/![image](https://github.com/user-attachments/assets/3c30403f-dd71-4772-b32b-2aa202840f36)
+)
 
 
 <!-- GithubStats -->
