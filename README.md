@@ -43,7 +43,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Meu Portfpolio](https://meu-portfolio-smoky-theta.vercel.app/)
+- [Meu Portfólio](https://meu-portfolio-smoky-theta.vercel.app/)
 - [Interface-mobile](https://github.com/Elrns/interface-mobile)
 - [Fone-Ecommerce](https://github.com/Elrns/fone-ecommerce)
 - [ProjetoserDigital](https://github.com/Elrns/ProjetoserDigital)
