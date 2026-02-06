@@ -40,14 +40,16 @@ Olá 👋, sou o Renan e sou apaixonado por tecnologia e desenvolvimento web!
 
 
 <!-- GithubStats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elrns&show_icons=true&theme=transparent&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elrns&show_icons=true&theme=dark)
+
 
 
 
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Meu Portfólio](https://meu-portfolio-smoky-theta.vercel.app/)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elrns&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
 
 
 
