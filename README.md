@@ -12,22 +12,24 @@
 </div>
 
 <!-- Presentation -->
-<p>
-  Olá 👋, Sou o Renan e sou louco por tecnologia e desenvolvimento web!
+Olá 👋, sou o Renan e sou apaixonado por tecnologia e desenvolvimento web!
 
-  - 🌱 Atualmente estou estudando Análise e desenvolvimento de sistema pela UNIP Universidade Paulista de SP
+- 🌱 Atualmente estudo **Análise e Desenvolvimento de Sistemas** pela **UNIP – Universidade Paulista (SP)**  
+- 🔭 Estou em busca da minha **primeira oportunidade na área de tecnologia**  
+- 🚀 Meu sonho é me tornar um **desenvolvedor Full Stack** e atuar em diferentes plataformas
 
-  - 🔭 Estou procurando uma oportunidade para meu primeiro emprego nessa área.
- Meu sonho é se tornar um desenvolverdor Full stack, e poder trabalhar com diversas plataformas
-</p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻Mais sobre mim </summary>
 
-  - 💬 Tenho 20 anos e atualmente vivo no interior de São Paulo Artur Nogueira. Falo o básico de inglês e estou adquirindo expêriencia com HTM5 , CSS3 e Javascript. Também sempre busco aprender cada vez mais, oq me ajuda a aprender e colocar em prática e assim me desenvolvendo como um desenvolvedor web onde dar vida ao site se tornou um hobby
+- 💬 Tenho 20 anos e moro no interior de São Paulo, em Artur Nogueira.  
+  Possuo inglês básico e experiência com **HTML5, CSS3 e JavaScript**.  
+  Estou sempre buscando aprender mais e colocar o conhecimento em prática, evoluindo constantemente como desenvolvedor web. Criar e dar vida a sites se tornou um hobby para mim.
 
-  - ⚡ Gosto de pesquisar muito na internet e ler, muitas vezes tirar minhas dúvidas, além de assistir filmes e ver séries e jogar! Com tudo isso acredito que nossos interesses pessoais possam contribuir para a percepção mais aguçada das coisas e resolver e criar soluções para os problemas \o/
+- ⚡ Gosto de pesquisar, ler, assistir filmes e séries e jogar.  
+  Acredito que esses interesses contribuem para uma visão mais criativa e analítica, ajudando na resolução de problemas e na criação de soluções.
+
 </details>
 
 <!-- Links -->
