@@ -40,7 +40,10 @@ Olá 👋, sou o Renan e sou apaixonado por tecnologia e desenvolvimento web!
 
 
 <!-- GithubStats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elrns&theme=dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elrns&theme=dark&show_icons=true)](https://github.com/Elrns/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elrns&theme=dark&show_icons=true&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elrns&theme=dark&layout=compact&theme=dark)
+
 
 
 <!-- Portfolio -->
