@@ -37,19 +37,12 @@ Olá 👋, sou o Renan e sou apaixonado por tecnologia e desenvolvimento web!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-sia-orlandini-3489a4304/)
 
 
-
-
 <!-- GithubStats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elrns&show_icons=true&theme=dark)
 
-
-
 <!-- Portfolio -->
 ## Portfolio:
-![Meu-Portifolio]([https://github.com/Elrns/meu-portfolio](https://meu-portfolio-smoky-theta.vercel.app/))
-
-
-
+[🌐 Meu Portfólio](https://vercel.com/elrns-projects/meu-portfolio/J7umWeq12ioY2C75T6TAEqCPXzwt)
 
 <!-- GIF -->
 <p align="left">
