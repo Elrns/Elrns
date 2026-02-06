@@ -40,6 +40,8 @@ Olá 👋, sou o Renan e sou apaixonado por tecnologia e desenvolvimento web!
 <!-- GithubStats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elrns&show_icons=true&theme=dark)
 
+
+
 <!-- Portfolio -->
 ## Portfolio:
 [🌐 Meu Portfólio](https://meu-portfolio-smoky-theta.vercel.app/)
@@ -65,4 +67,9 @@ Olá 👋, sou o Renan e sou apaixonado por tecnologia e desenvolvimento web!
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   </div>
+
+  <div align="center">
+  <h3>🐍 Minha Jornada de Commits</h3>
+  <img src="https://raw.githubusercontent.com/Elrns/Elrns/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
   
