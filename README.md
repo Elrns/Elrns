@@ -33,6 +33,12 @@ Sou apaixonado por tecnologia e desenvolvimento web, focado em criar soluções 
 
 ---
 
+<!-- GIF -->
+<p align="left">
+  <img align="center" src="https://i.pinimg.com/originals/2a/4a/5b/2a4a5bfa4602f9a38d4bd652a2c7f9dd.gif" alt="Imagem">
+</p>
+
+
 ### 🛠️ Tecnologias e Ferramentas
 
 **Linguagens & Front-end:**
@@ -57,7 +63,7 @@ Sou apaixonado por tecnologia e desenvolvimento web, focado em criar soluções 
   
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Elrns&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
-
+<br>
 <div align="center">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Elrns&layout=compact&langs_count=6&theme=dracula&hide_border=true" alt="Top Langs" />
 </div>
