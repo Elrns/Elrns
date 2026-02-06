@@ -1,75 +1,77 @@
+# 🚀 Renan Sia Orlandini | Desenvolvedor Full Stack em treinamento
 
-# renan-sia-orlandini
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+me+chamo+Renan!;" />
 
-###
-
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Renan!;" />
-</summary>
-   
+  <p align="center">
+    <a href="https://www.linkedin.com/in/renan-sia-orlandini-3489a4304/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://www.instagram.com/renansia150/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    </a>
+    <a href="https://meu-portfolio-smoky-theta.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+    </a>
+  </p>
 </div>
 
-<!-- Presentation -->
-Olá 👋, sou o Renan e sou apaixonado por tecnologia e desenvolvimento web!
+---
 
-- 🌱 Atualmente estudo **Análise e Desenvolvimento de Sistemas** pela **UNIP – Universidade Paulista (SP)**  
-- 🔭 Estou em busca da minha **primeira oportunidade na área de tecnologia**  
-- 🚀 Meu sonho é me tornar um **desenvolvedor Full Stack** e atuar em diferentes plataformas
+### 👨‍💻 Sobre mim
+Sou apaixonado por tecnologia e desenvolvimento web, focado em criar soluções criativas e funcionais. Atualmente, moro em Artur Nogueira (SP) e dedico meu tempo aos estudos e projetos práticos.
 
+- 🌱 Estudante de **Análise e Desenvolvimento de Sistemas** (UNIP).
+- 🔭 Em busca da minha **primeira oportunidade** como Desenvolvedor Júnior/Estagiário.
+- 🚀 Objetivo: Me tornar um **Desenvolvedor Full Stack** especialista no ecossistema JavaScript.
 
-<!-- Dropdown -->
 <details>
-  <summary>👨‍💻Mais sobre mim </summary>
-
-- 💬 Tenho 20 anos e moro no interior de São Paulo, em Artur Nogueira.  
-  Possuo inglês básico e experiência com **HTML5, CSS3 e JavaScript**.  
-  Estou sempre buscando aprender mais e colocar o conhecimento em prática, evoluindo constantemente como desenvolvedor web. Criar e dar vida a sites se tornou um hobby para mim.
-
-- ⚡ Gosto de pesquisar, ler, assistir filmes e séries e jogar.  
-  Acredito que esses interesses contribuem para uma visão mais criativa e analítica, ajudando na resolução de problemas e na criação de soluções.
-
+  <summary><b>📖 Saiba mais sobre minha trajetória</b></summary>
+  <br>
+  Tenho 20 anos e sou movido pela curiosidade. Além de codar, gosto de pesquisar novas tecnologias, assistir filmes e séries, e jogar. Acredito que o equilíbrio entre lógica e criatividade é a chave para resolver problemas complexos no desenvolvimento de software.
 </details>
 
-<!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/renansia150/?next=%2F)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-sia-orlandini-3489a4304/)
+---
 
+### 🛠️ Tecnologias e Ferramentas
 
-<!-- GithubStats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elrns&show_icons=true&theme=dark)
-
-
-
-<!-- Portfolio -->
-## Portfolio:
-[🌐 Meu Portfólio](https://meu-portfolio-smoky-theta.vercel.app/)
-
-<!-- GIF -->
+**Linguagens & Front-end:**
 <p align="left">
-  <img align="center" src="https://i.pinimg.com/originals/2a/4a/5b/2a4a5bfa4602f9a38d4bd652a2c7f9dd.gif" alt="Imagem">
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </p>
 
-## 🔥 Skills
-<!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   
-  </div>
-  
-  <!-- Skills: Tools & Frameworks -->
-  <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  </div>
+**Ferramentas & Deploy:**
+<p align="left">
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+</p>
 
-  <div align="center">
+---
+
+### 📊 Estatísticas e Desempenho
+
+<div align="center">
+  
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Elrns&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Elrns&layout=compact&langs_count=6&theme=dracula&hide_border=true" alt="Top Langs" />
+</div>
+
+<br>
+
+<div align="center">
   <h3>🐍 Minha Jornada de Commits</h3>
   <img src="https://raw.githubusercontent.com/Elrns/Elrns/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-  
+
+---
+
+<p align="center">
+  <i>"A tecnologia move o mundo."</i><br>
+  <b>Vamos construir algo incrível juntos?</b>
+</p>
