@@ -40,7 +40,7 @@ Olá 👋, sou o Renan e sou apaixonado por tecnologia e desenvolvimento web!
 
 
 <!-- GithubStats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&commits_year=2020)
 
 
 
