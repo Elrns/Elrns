@@ -42,7 +42,7 @@ Olá 👋, sou o Renan e sou apaixonado por tecnologia e desenvolvimento web!
 
 <!-- Portfolio -->
 ## Portfolio:
-[🌐 Meu Portfólio](https://vercel.com/elrns-projects/meu-portfolio/J7umWeq12ioY2C75T6TAEqCPXzwt)
+[🌐 Meu Portfólio](https://meu-portfolio-smoky-theta.vercel.app/)
 
 <!-- GIF -->
 <p align="left">
