@@ -28,7 +28,7 @@ Sou apaixonado por tecnologia e desenvolvimento web, focado em criar soluções 
 <details>
   <summary><b>📖 Saiba mais sobre minha trajetória</b></summary>
   <br>
-  Tenho 20 anos e sou movido pela curiosidade. Além de codar, gosto de pesquisar novas tecnologias, assistir filmes e séries, e jogar. Acredito que o equilíbrio entre lógica e criatividade é a chave para resolver problemas complexos no desenvolvimento de software.
+  Tenho 21 anos e sou movido pela curiosidade. Além de codar, gosto de pesquisar novas tecnologias, assistir filmes e séries, e jogar. Acredito que o equilíbrio entre lógica e criatividade é a chave para resolver problemas complexos no desenvolvimento de software.
 </details>
 
 ---
