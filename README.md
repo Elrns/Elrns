@@ -1,4 +1,4 @@
-# 🚀 Renan Sia Orlandini | Desenvolvedor Full Stack em treinamento
+#  🚀 Renan Sia Orlandini | Desenvolvedor Frontend & Estudante de ADS (Foco em Salesforce)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+me+chamo+Renan!;" />
@@ -23,7 +23,7 @@ Sou apaixonado por tecnologia e desenvolvimento web, focado em criar soluções 
 
 - 🌱 Estudante de **Análise e Desenvolvimento de Sistemas** (UNIP).
 - 🔭 Em busca da minha **primeira oportunidade** como Desenvolvedor Júnior/Estagiário.
-- 🚀 Objetivo: Me tornar um **Desenvolvedor Full Stack** especialista no ecossistema JavaScript.
+- 🚀 Objetivo: Me tornar um ** Desenvolvedor Frontend & Estudante de ADS (Foco em Salesforce)** especialista no ecossistema JavaScript**.
 
 <details>
   <summary><b>📖 Saiba mais sobre minha trajetória</b></summary>
